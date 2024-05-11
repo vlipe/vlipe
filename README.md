@@ -18,6 +18,8 @@
     <img src="https://skillicons.dev/icons?i=css" align="center" /><br>
 </div>
 
-![Snake animation](https://github.com/vlipe/vlipe/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=vlipe&repo=vlipe&theme=react)](https://github.com/vlipe/vlipe)
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Bruno-Aparecido-Rodrigues/Bruno-Aparecido-Rodrigues/output/github-contribution-grid-snake.svg" />
+</div>
+<hr/>
+<h3 align="center">
