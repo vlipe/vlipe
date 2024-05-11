@@ -18,6 +18,6 @@
     <img src="https://skillicons.dev/icons?i=css" align="center" /><br>
 </div>
 
-![snake gif](https://github.com/vlipe/vlipe/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vlipe/vlipe/blob/output/github-contribution-grid-snake.svg)
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=vlipe&repo=vlipe&theme=react)](https://github.com/vlipe/vlipe)
