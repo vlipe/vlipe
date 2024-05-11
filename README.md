@@ -18,7 +18,7 @@
     <img src="https://skillicons.dev/icons?i=html,vscode,github,java" align="center" />
     <img src="https://skillicons.dev/icons?i=css" align="center" /><br>
 </div>
-<hr/>
+
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vlipe/vlipe/output/github-contribution-grid-snake.svg" />
 </div>
