@@ -11,3 +11,13 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlipe&layout=compact&hide_border=true&bg_color=0d1117&icon_color=7203F7FF&text_color=c9d1d9&title_color=#191970" />
 </div>
 
+### LEARNING AT MOMENT:
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,vscode,github,java" align="center" />
+    <img src="https://skillicons.dev/icons?i=css" align="center" /><br>
+</div>
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vlipe/vlipe/output/github-contribution-grid-snake.svg" />
+</div>
