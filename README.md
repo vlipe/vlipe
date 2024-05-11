@@ -22,8 +22,8 @@
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vlipe/vlipe/output/github-contribution-grid-snake.svg" />
 </div>
-
-<br><br>
+<hr/>
+<br>
 <div align="center">
 <img height="60"> <img src="https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9oQUhwTDdFNFBxMmdLQWc4ZnBZUC5wbmcifQ:supercell:QHY3g7r5ol-Bsu3BDZ6Ei9JCO3X_E9kTfHxPqqZzMcQ?" width="150">
 </div>
