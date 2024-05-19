@@ -25,7 +25,7 @@
 <hr/>
 <br>
 <div align="center">
-<img height="60"> <img src="" width="150">
+<img height="60"> <img src="https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9SODNVeUtvakN0S0VneHhQRmZRVi5wbmcifQ:supercell:sknRO3oEKMUuoklo6b5B5XJuEnQyVu8hIEf8FQ5W4lE?" width="150">
 </div>
 
-<img width=100% src="https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoic3VwZXJjZWxsXC9maWxlXC9SODNVeUtvakN0S0VneHhQRmZRVi5wbmcifQ:supercell:sknRO3oEKMUuoklo6b5B5XJuEnQyVu8hIEf8FQ5W4lE?"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=021dfe&height=120&section=footer"/>
