@@ -15,7 +15,7 @@
 ### LEARNING AT THE MOMENT:
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,vscode,figma,github,python,java" align="center" />
+    <img src="https://skillicons.dev/icons?i=html,vscode,figma,github,java" align="center" />
     <img src="https://skillicons.dev/icons?i=css" align="center" /><br>
 </div>
 
