@@ -12,7 +12,7 @@
 </div>
 <hr/>
 
-### LEARNING AT THE MOMENT:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30&center=true&vCenter=true&width=1000&lines=Estudando+no+momento:+&b&font=Pixelify+Sans:%29)](https://git.io/typing-svg)
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,vscode,figma,github,java" align="center" />
