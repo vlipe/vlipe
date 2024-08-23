@@ -16,7 +16,8 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,vscode,figma,js,github,java" align="center" />
-    <img src="https://skillicons.dev/icons?i=css" align="center" /><br>
+    <img src="https://skillicons.dev/icons?i=css" align="center" />
+   <br>
 </div>
 
 <div align="center">
