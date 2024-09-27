@@ -12,7 +12,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    
    <img src="https://github-profile-trophy.vercel.app/?username=vlipe&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" height="190px" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlipe&layout=compact&hide_border=true&bg_color=0d1117&icon_color=7203F7FF&text_color=c9d1d9&title_color=021dfe" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlipe&layout=compact&hide_border=true&locale=pt-br&bg_color=0d1117&icon_color=7203F7FF&text_color=c9d1d9&title_color=021dfe" height="190px" />
 </div>
 <hr/>
 
