@@ -4,7 +4,7 @@
 <img src="https://i.redd.it/1t2u0rhaakj51.gif" width="150" alt="8-Bit">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá!!!;Me+chamo+Felipe+e+tenho+16+anos;Bem-vindo(a)+ao+meu+perfil!&b&font=Pixelify+Sans:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá!!!;Me+chamo+Felipe+e+tenho+17+anos;Bem-vindo(a)+ao+meu+perfil!&b&font=Pixelify+Sans:%29)](https://git.io/typing-svg)
 
 
 <div align="center">
