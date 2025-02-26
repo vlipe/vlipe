@@ -2,10 +2,9 @@
 
 <div align="center">
 <img src="https://i.redd.it/1t2u0rhaakj51.gif" width="150" alt="8-Bit">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=26&duration=3500&pause=700&color=F7F7F7&center=true&vCenter=true&width=435&lines=Ol%C3%A1!!!;Me+chamo+Felipe+V.+e+tenho+17+anos;Bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 </div>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá!!!;Me+chamo+Felipe+e+tenho+17+anos;Bem-vindo(a)+ao+meu+perfil!&b&font=Pixelify+Sans:%29)](https://git.io/typing-svg)
-
 
 <div align="center">
    
@@ -16,10 +15,15 @@
 </div>
 <hr/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Estudando+no+momento:+&b&font=Pixelify+Sans:%29)](https://git.io/typing-svg)
+<div align="center">
+   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=26&pause=700&color=F7F7F7&center=true&width=435&lines=Estudando+no+momento...)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,vscode,figma,github" align="center" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,php,kotlin" align="center" /> <br> <br>
+    <img src="https://skillicons.dev/icons?i=figma,github,vscode" align="center" />
    <br>
 </div>
 
