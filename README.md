@@ -22,8 +22,7 @@
 </div>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,php,kotlin" align="center" /> <br> <br>
-    <img src="https://skillicons.dev/icons?i=figma,github,vscode" align="center" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,php,kotlin" align="center" /> <br> <br>
    <br>
 </div>
 
