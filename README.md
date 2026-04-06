@@ -16,5 +16,5 @@
 
 <br> <br>
 
-<a href = "mailto:felipevivenciorodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:felipevivenciorodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/felipe-vivencio-4b7b0a3b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
